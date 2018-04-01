@@ -23,6 +23,9 @@ Find our extensive Getting Started tutorial at
 [https://diesel.rs/guides/getting-started](https://diesel.rs/guides/getting-started).
 Guides on more specific features are coming soon.
 
+# Todo
+1) Support for nosql
+
 ## Code of conduct
 
 Anyone who interacts with Diesel in any space, including but not limited to
